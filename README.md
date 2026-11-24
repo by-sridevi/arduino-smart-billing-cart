@@ -26,6 +26,3 @@ Technologies Used
 
 Arduino, Embedded C/C++, RFID and LCD Interfacing.
 
-Project Photos
-
-Hardware implementation photographs will be added here.
